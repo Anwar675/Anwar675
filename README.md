@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently building **Manga Website**
 - 🌱 I’m learning **Next.js, tRPC, Redis**
-- 💬 Ask me about **React, Node.js**
+- 💼 Actuellement : I'm student of Transport Univercity
+- 💬 Ask me about **React, Next.js**
 - ⚡ Fun fact: I love coding at night 🌙
 
 ---
@@ -15,7 +16,9 @@
 ### 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,docker,redis,linux" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,python,redis,linux,postgres" />
+  <img src="https://cdn.simpleicons.org/trpc/2596BE" height="48" />
+
 </p>
 
 ---
@@ -37,3 +40,4 @@
 ### 🌐 Connect With Me
 
 - GitHub: https://github.com/Anwar675
+- Facebook: https://www.facebook.com/oanthienan.928219
