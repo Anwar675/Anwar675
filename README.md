@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anwar</h1>
+<h3 align="center">Fullstack Web Developer</h3>
 
-<!--
-**Anwar675/Anwar675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently building **Manga Website**
+- 🌱 I’m learning **Next.js, tRPC, Redis**
+- 💬 Ask me about **React, Node.js**
+- ⚡ Fun fact: I love coding at night 🌙
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,docker,redis,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Anwar675&show_icons=true&theme=tokyonight)
+
+![streak](https://streak-stats.demolab.com?user=Anwar675&theme=tokyonight)
+
+---
+
+### 🧠 Top Languages
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar675&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+
+- GitHub: https://github.com/Anwar675
